@@ -60,5 +60,4 @@ let worker1:StaffInfoInterface<{sex:string,height:number,weight:number}> = {
 ## Languages
 
 -   Uzbek (native)
--   Russian (intermediate)
 -   English (IELTS 6)
